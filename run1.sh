@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this is for feature1"
+echo "this is first line"
