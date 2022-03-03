@@ -3,6 +3,7 @@
   tasks:
     - name: installing java
       shell: sudo yum install java-1.8* -y
+      register: output
 
     - name: installing wget
       shell: sudo yum -y install wget
