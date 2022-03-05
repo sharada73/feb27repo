@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "this is first line"
-echo "this is feature1"
+echo "this is feature2"
